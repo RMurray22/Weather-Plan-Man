@@ -1,1 +1,1 @@
-Hello, this is my app that will tell you the weather for the next 5 days. I started late so the final result will most likely be a little rough.
+Hello, this is my app that will tell you the weather for the next 5 days. I started late so the final result will most likely be a little rough. 
